@@ -1,1 +1,2 @@
 # Credit-Card-Fraud-Detection
+FraudShield is an end-to-end credit card fraud detection project that trains an ensemble machine learning model on real-world transaction data and serves predictions through an interactive Streamlit web app. It combines XGBoost, Random Forest, and Logistic Regression with SMOTE-based class balancing and robust feature engineering to detect suspicious transactions in real time, explain risk factors in plain language, and visualize fraud probability, session history, and risk trends.
